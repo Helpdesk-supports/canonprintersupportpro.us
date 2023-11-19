@@ -1,0 +1,173 @@
+@media screen and (max-width: 1920px){
+   
+
+}
+@media screen and (max-width: 1440px) {
+    
+}
+@media screen and (max-width: 1366px) {
+  
+}
+@media screen and (max-width: 1280px) { 
+}
+
+
+
+@media screen and (max-width: 1199px) {
+    
+}
+@media screen and (max-width: 1024px) {
+    
+
+   
+}
+@media screen and (max-width: 991px) {
+    .new_ban img{display:none}
+    .ban_cont {
+    padding: 0px; padding-top: 30px;
+    padding-bottom: 24px;
+}
+.let-eliminate-b {  
+    margin-top: 0px;
+}
+.single-contact-area {
+    margin-top: 33px;
+}
+ 
+}
+@media screen and (max-width: 767px) {
+    .mtb {
+        margin: 33px 0px;
+    }
+    .contact--area.contact-page .contact-content h5 {
+        font-size: 32px;
+        margin-bottom: 13px;
+    }
+    .canon_printer_content_second {
+        padding-bottom: 25px;
+    }
+    .second_para{
+        padding-top: 27px;
+    }
+    .all-service_banner {
+        padding: 65px 0px;
+    }
+    .banner_content_main {
+        position: relative;
+    }
+    .contact--area .contact-content .single-contact-content {
+        margin-bottom: 15px;
+    }
+    .map-area .contact---area .contact-page {
+        padding: 32px 21px;
+    }
+    .text p a {
+        font-size: 21px;
+        word-break: break-all;
+        line-height: 31px;
+    }
+   
+}
+@media screen and (max-width: 675px) {
+
+  .navbar-brand img{    width: 150px !important;} 
+
+   .header {/* background: #fff; */position: inherit;}
+   .banner_content {
+    padding-top: 8px;
+    padding-bottom: 34px;
+}
+   .main_banner_navbar {background-image: none; background: #ff1d2c;}
+   .main_banner_navbar {padding-bottom: 0px;}
+   .banner_img {display: none;}
+
+
+   
+
+}
+@media screen and (max-width: 575px) {
+    .banner_content {
+        padding-top: 26px;
+    }
+}
+@media screen and (max-width: 475px) {
+ 
+ 
+   
+}
+@media screen and (max-width: 414px) {
+  
+
+}
+@media screen and (max-width: 360px) {
+   
+    .cartridge_main {
+        padding: 22px 0px;
+    }  
+
+}
+@media screen and (max-width: 320px) {
+    .cartridge_content.height_top {
+        height: 100%;
+    }
+    .cartridge_content.height_second {
+        height: 100%;
+    }
+
+}
+@media only screen and (min-width: 575px) and (max-width: 1280px)  {
+    .cartridge_content.white {
+        height: 480px;
+    }
+}
+@media only screen and (min-width: 575px) and (max-width: 991px)  {
+    h1{
+        font-size: 35px !important;
+    }
+    h2{
+        font-size: 25px !important;    
+    }  
+    .cartridge_content.white {
+        height: 460px;
+    }
+    .cartridge_content.white {
+        height: 720px;
+    }
+    .banner_content{
+        padding-top: 55px;
+    }
+    .main_banner_navbar {
+        padding-bottom: 51px;
+    }
+    .navbar_list{
+        background-color: #fff;
+    }
+    .cartridge_content.height_second {
+        height: 100%
+    }
+  
+}
+
+@media only screen and (min-width: 320px) and (max-width: 475px)  {
+ 
+}
+@media only screen and (min-width: 320px) and (max-width: 575px)  {
+   
+    h1{
+        font-size: 35px !important;
+    }
+    h2{
+        font-size: 25px !important;    
+    }
+    .cartridge_content.white {
+        height: inherit;
+    }
+    .my-navbar{
+        width: 97% !important;
+      
+    }
+    .navbar-scroll {
+        width: 100% !important;
+    }
+     
+}
